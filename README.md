@@ -1,3 +1,3 @@
-esto es una prueba de como clonar y creardo desde github a mi escritorio local
+esto es una prueba de como clonar y crear desde github a mi escritorio local
 
 #1
